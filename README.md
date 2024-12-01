@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Moce! 👋
+🌟 Innovator | Developer | Tech Enthusiast 🌟
+Creating meaningful tech solutions that make a difference.
 
-<!--
-**mocemoce/mocemoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🔭 Current Project: Visio-Guide – An assistive app for visually impaired individuals.
+🌱 Learning: Flutter, backend development, and full-stack web development.
+🤝 Open to Collaborations: Passionate about working on impactful and innovative projects.
+💡 Mission: Leveraging tech to empower people and create inclusive solutions.
+🛠️ Skills & Tools
+Languages: Dart, JavaScript, Python
+Frameworks: Flutter, React
+Tools: GitHub, Firebase, Google Cloud
 
-Here are some ideas to get you started:
+📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌐 Connect with Me
+📧 Email Me
+🌍 Visit My Portfolio
+💬 Follow Me on LinkedIn
+⚡ Fun Fact
+I believe technology + passion = solutions that change lives! 🚀
