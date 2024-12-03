@@ -79,7 +79,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/mocemoce/mocemoce/blob/output/github-contribution-grid-snake.svg" alt="Snake Game GIF" />
+  <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="Snake Game GIF" />
 </div>
 
 <p align="center">⚡ Fun Fact: Coding at midnight feels like a superpower! 🌙✨</p>
