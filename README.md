@@ -8,11 +8,8 @@
 <div align="center">
   <h2>🛠️ About Me</h2>
   
-  <p>🔭 I’m currently working on <b>Visio-Guide</b> – an assistive app for visually impaired users.</p>
-  
-  <p>🌱 I’m currently learning <b>Flutter, backend development,</b> and <b>full-stack web development</b>.</p>
-  
-  <p>🤝 Open to Collaborations: Passionate about working on impactful and innovative projects.</p>
+  <p>I am a fresh graduate with a foundation in web development, particularly in frontend technologies. While my hands-on experience is limited, I bring a strong willingness to learn, a problem-solving   mindset, and enthusiasm for building dynamic web applications. I'm eager to grow and adapt to new challenges in the ever-evolving tech landscape.</p>
+
 </div>
 
 <div align="center">
