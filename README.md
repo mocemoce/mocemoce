@@ -66,9 +66,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mocemoce&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">📈 GitHub Stats</p>
 <p align="center"> 
@@ -76,6 +73,10 @@
 </p> 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocemoce&theme=radical" alt="GitHub Streak Stats" /> 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mocemoce&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
