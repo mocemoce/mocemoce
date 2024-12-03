@@ -16,21 +16,6 @@
 </div>
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>
-    <a href="https://linkedin.com/in/moce-loise-nunez-4898a82a5/" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/mocelordreborn.bull/" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@idostuff4u" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
   <h2>💻 Languages and Tools</h2>
   <p>
     <a href="https://flutter.dev" target="_blank">
