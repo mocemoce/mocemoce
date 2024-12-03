@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moce</h1> 
 <h3 align="center">🌟 Innovator | Developer | Tech Enthusiast 🌟</h3> 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200" alt="Coding GIF"> 
-</p> 
 <p align="center">Creating meaningful tech solutions that make a difference.</p>
 
 <div align="center">
