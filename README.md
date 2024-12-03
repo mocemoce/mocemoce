@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Moce</h1> <h3 align="center">🌟 Innovator | Developer | Tech Enthusiast 🌟</h3> <p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200" alt="Coding GIF"> </p> <p align="center">Creating meaningful tech solutions that make a difference.</p>
+<h1 align="center">Hi 👋, I'm Moce</h1> 
+<h3 align="center">🌟 Innovator | Developer | Tech Enthusiast 🌟</h3> 
+<p align="center"> 
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200" alt="Coding GIF"> 
+</p> 
+<p align="center">Creating meaningful tech solutions that make a difference.</p>
 
 <div align="center">
   <h2>🛠️ About Me</h2>
@@ -60,11 +65,21 @@
     </a>
   </p>
 </div>
- 
- <p align="center">📈 GitHub Stats</p>
- 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mocemoce&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocemoce&theme=radical" alt="GitHub Streak Stats" /> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mocemoce&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">📈 GitHub Stats</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mocemoce&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocemoce&theme=radical" alt="GitHub Streak Stats" /> 
+</p>
+
+<div align="center">
+  <img src="https://github.com/mocemoce/mocemoce/blob/output/github-contribution-grid-snake.svg" alt="Snake Game GIF" />
+</div>
 
 <p align="center">⚡ Fun Fact: Coding at midnight feels like a superpower! 🌙✨</p>
-
-
