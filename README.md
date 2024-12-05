@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Moce+Loise!"/> 
+ <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Moce;Passionate+about+web+development+"/>
 </h1> 
 <h3 align="center">🌟 Innovator | Developer | Tech Enthusiast 🌟</h3> 
 <p align="center"> Crafting meaningful tech solutions with creativity, curiosity, and code. 💡💻 </p>
