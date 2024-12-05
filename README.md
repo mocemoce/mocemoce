@@ -1,7 +1,6 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moce;Passionate+about+web+development+" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moce;🌟 Innovator+Developer+Tech+Enthusiast+🌟+" alt="Typing SVG" /></a>
 </h1> 
-<h3 align="center">🌟 Innovator | Developer | Tech Enthusiast 🌟</h3> 
 <p align="center"> Crafting meaningful tech solutions with creativity, curiosity, and code. 💡💻 </p>
 <p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200" alt="Coding GIF"> </p> 
 
