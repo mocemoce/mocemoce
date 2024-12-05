@@ -1,7 +1,9 @@
 <p> <img align="right" src="https://komarev.com/ghpvc/?username=mocemoce&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> 
+
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3500&pause=500&width=435&lines=%3D%3D%3D%3D%3D%3D%3D%3D++++++Hi+%F0%9F%91%8B%2C+I'm+Moce++%3D%3D%3D%3D%3D%3D%3D%3D;Passionate+about+web+development!." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3500&pause=500&width=435&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D++++++Hi+%F0%9F%91%8B%2C+I'm+Moce+%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;+Passionate+about+web+development!+" alt="Typing SVG" /></a>
 </h1> 
+
 <div align="center"> 
   <h2>🛠️ About Me</h2> 
   <p>I’m a fresh graduate passionate about web development, particularly in frontend technologies. While my experience is limited, my enthusiasm for learning and problem-solving drives me forward. I'm dedicated to creating dynamic and impactful web applications and thrive on tackling new challenges in the ever-evolving tech landscape.</p> 
@@ -28,9 +30,11 @@
   <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mocemoce&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p> 
   <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocemoce&theme=radical" alt="GitHub Streak Stats" /> </p> 
 </div>
+
+<p>⚡ Fun Fact: Coding at midnight feels like a superpower! 🌙✨</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-<div align="center"> <p>⚡ Fun Fact: Coding at midnight feels like a superpower! 🌙✨</p> </div>
