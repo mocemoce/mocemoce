@@ -14,12 +14,10 @@
   <p> 
     <a href="https://flutter.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" /> </a>
     <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40" /> </a>
-    <a href="https://developer.android.com" target="_blank"> <img src="https://skillicons.dev/icons?i=android" alt="Android" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" /> </a>
-    <a href="https://cloud.google.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gcloud" alt="Google Cloud" width="40" height="40" /> </a>
     <a href="https://opencv.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /> </a>
   </p> 
