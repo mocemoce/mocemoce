@@ -6,7 +6,7 @@
 </h1> 
 
   <h2>🛠️ About Me</h2> 
-  <p>I’m a fresh graduate passionate about web development, particularly in frontend technologies. While my experience is limited, my enthusiasm for learning and problem-solving drives me forward. I'm dedicated to creating dynamic and impactful web applications and thrive on tackling new challenges in the ever-evolving tech landscape.</p> 
+  <p>I’m a fresh graduate passionate about Mobile development, particularly in Flutter Framework. While my experience is limited, my enthusiasm for learning and problem-solving drives me forward. I'm dedicated to creating dynamic and impactful Mobile applications and thrive on tackling new challenges in the ever-evolving tech landscape.</p> 
 
 
   <h2>💻 Languages and Tools</h2> 
